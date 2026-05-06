@@ -48,4 +48,3 @@ If you're hiring and want to see deeper work, [reach out](mailto:luminaire801@gm
 - ✉️ Email: [luminaire801@gmail.com](mailto:luminaire801@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/luminaire801](https://www.linkedin.com/in/luminaire801)
 - 💻 GitHub: [github.com/luminaire801](https://github.com/luminaire801)
-- 🌐 Portfolio: *(add — optional)*
