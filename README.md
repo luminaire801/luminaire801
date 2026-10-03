@@ -13,12 +13,16 @@
 Designing FastAPI/MongoDB APIs and integrating AI/ML services for a financial-content platform.
 *Python · FastAPI · MongoDB · Redis · OpenAI · REST*
 
-**👥 Project Manager + Engineering Lead** *(part-time, remote)* — **The Health Sciences Academy**, since Dec 2015
-9+ years of WordPress/PHP platform ownership: full SDLC, security, performance, technical hiring, team mentorship.
-*WordPress · WooCommerce · PHP · MySQL · API integrations · NewRelic*
-
 **🎓 Mechatronics student** — **THWS, Schweinfurt**
 Applying senior software systems-thinking to electrical, embedded, and industrial-automation domains.
+
+---
+
+## 🗂️ Previously
+
+**👥 Project Manager + Engineering Lead** *(part-time, remote)* — **The Health Sciences Academy**, Dec 2015 to 2026
+10 years of WordPress/PHP platform ownership: full SDLC, security, performance, technical hiring, team mentorship.
+*WordPress · WooCommerce · PHP · MySQL · API integrations · NewRelic*
 
 ---
 
@@ -46,5 +50,5 @@ If you're hiring and want to see deeper work, [reach out](mailto:luminaire801@gm
 ## 🔗 Links
 
 - ✉️ Email: [luminaire801@gmail.com](mailto:luminaire801@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/luminaire801](https://www.linkedin.com/in/luminaire801)
+- 💼 LinkedIn: [linkedin.com/in/luminous801](https://www.linkedin.com/in/luminous801)
 - 💻 GitHub: [github.com/luminaire801](https://github.com/luminaire801)
