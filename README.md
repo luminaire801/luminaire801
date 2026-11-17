@@ -1,54 +1,36 @@
 # Luminaire Pinsoy
 
-> Senior software engineer with **12+ years** across PHP, WordPress, and Python — now studying **Mechatronics at THWS**, bridging software craft with embedded systems and automation.
+Software engineer since 2012, studying Mechatronics (B.Eng.) at THWS Schweinfurt. I live in Schweinfurt, Germany, and I'm looking for Werkstudent and engineering roles in Germany or remote in the EU.
 
-📍 **Schweinfurt, Germany** · open to **DACH / EU-remote** engineering roles
-✉️ [luminaire801@gmail.com](mailto:luminaire801@gmail.com)
+Most of my code lives in private company repos, so this page is a summary rather than a portfolio. Happy to walk through any of it on a call.
 
----
+## Now
 
-## 🛠️ Currently building
+**Finks** (The Average Joe Media Inc.), Full Stack Web Developer, part-time, since 07/2024.
+I built and run the news pipeline behind the AI news briefs on finks.ai: about 8,600 RSS feeds, story clustering, and fact checks on every brief. I also built the portfolio, bank-connection and Google connector services for the AI chat agent. Python on AWS Lambda and SQS, ClickHouse, Qdrant. About 1,170 merged pull requests since March 2026.
 
-**🧠 Full-Stack / AI Backend** *(part-time, remote)* — **The Average Joe Media**, since Jul 2024
-Designing FastAPI/MongoDB APIs and integrating AI/ML services for a financial-content platform.
-*Python · FastAPI · MongoDB · Redis · OpenAI · REST*
+**THWS Schweinfurt**, B.Eng. Mechatronics, since 10/2024 (expected graduation 03/2029).
 
-**🎓 Mechatronics student** — **THWS, Schweinfurt**
-Applying senior software systems-thinking to electrical, embedded, and industrial-automation domains.
+## Own projects
 
----
+**Vorzimmer KI.** An AI phone agent that answers my missed calls in German or English, works out who is calling and why, and takes a message. An Android app shows the live transcript and lets me type replies or take over the call. Python, FastAPI, Twilio ConversationRelay, Kotlin. Answering real calls since June 2026.
 
-## 🗂️ Previously
+**LifeOS.** A coordinator agent and parallel Claude agents that handle my admin, budget and study planning from one shared Markdown knowledge base, connected to Google Drive, Gmail, Calendar and Wolfram Alpha.
 
-**👥 Project Manager + Engineering Lead** *(part-time, remote)* — **The Health Sciences Academy**, Dec 2015 to 2026
-10 years of WordPress/PHP platform ownership: full SDLC, security, performance, technical hiring, team mentorship.
-*WordPress · WooCommerce · PHP · MySQL · API integrations · NewRelic*
+**Solar PV.** Designed and installed two hybrid systems (8 and 5.5 kWp, LiFePO4 storage).
 
----
+## Before Finks
 
-## 🧰 Stack
+Project Manager and Team Leader at The Health Sciences Academy (2015 to 2026), Technical Services Manager at Broadbiz.com (2013 to 2015), and software developer roles before that.
 
-| | |
-|---|---|
-| **Languages** | TypeScript · Python · PHP · JavaScript |
-| **AI / LLM** | Vercel AI SDK · Anthropic Claude · OpenRouter · Prompt engineering · Structured output (zod + LLM) · Multi-model orchestration · Local-first AI (Ollama) |
-| **Web** | Next.js 16 · React 19 (RSC) · Tailwind v4 · shadcn/ui · FastAPI · WordPress · WooCommerce |
-| **Data / Infra** | Prisma · MongoDB · MySQL · Redis · AWS · NewRelic |
-| **Automation** | Playwright · pdf-parse · pdf-lib |
-| **Hardware-adjacent** | Electronic diagnostics · Soldering · Oscilloscope · Multimeter · AC/DC circuits · Photovoltaic systems |
+## Stack
 
----
+- **Languages:** Python, TypeScript, PHP, JavaScript, SQL, Rust
+- **Web:** Next.js, React, FastAPI, WordPress
+- **Cloud and data:** AWS (Lambda, SQS, EventBridge, S3), Pulumi, GitHub Actions, ClickHouse, MongoDB, MySQL, Redis, Qdrant
+- **AI:** LLM integration (OpenAI, Claude, Gemini), embeddings and vector search, LLM evaluation, Model Context Protocol
+- **AI tools I use daily:** Claude Code, ChatGPT and Codex, Gemini, TypeSafe Jev
 
-## 📂 A note on activity
+## Contact
 
-My last decade is in private and employer repos — production WordPress platforms, internal tooling, financial APIs, AI integrations. The graph here is **intentionally curated**: the work is real, what's public is a selection.
-
-If you're hiring and want to see deeper work, [reach out](mailto:luminaire801@gmail.com) — happy to walk through architecture decisions, code reviews, or run a paired session.
-
----
-
-## 🔗 Links
-
-- ✉️ Email: [luminaire801@gmail.com](mailto:luminaire801@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/luminous801](https://www.linkedin.com/in/luminous801)
-- 💻 GitHub: [github.com/luminaire801](https://github.com/luminaire801)
+luminaire801@gmail.com · [linkedin.com/in/luminous801](https://www.linkedin.com/in/luminous801)
