@@ -15,7 +15,7 @@ I built and run the news pipeline behind the AI news briefs on finks.ai: about 8
 
 **Vorzimmer KI.** An AI phone agent that answers my missed calls in German or English, works out who is calling and why, and takes a message. An Android app shows the live transcript and lets me type replies or take over the call. Python, FastAPI, Twilio ConversationRelay, Kotlin. Answering real calls since June 2026.
 
-**LifeOS.** A coordinator agent and parallel Claude agents that handle my admin, budget and study planning from one shared Markdown knowledge base, connected to Google Drive, Gmail, Calendar and Wolfram Alpha.
+**LifeOS.** A coordinator agent and parallel AI agents that handle my admin, budget and study planning from one shared Markdown knowledge base, connected to Google Drive, Gmail, Calendar and Wolfram Alpha.
 
 **Solar PV.** Designed and installed two hybrid systems (8 and 5.5 kWp, LiFePO4 storage).
 
