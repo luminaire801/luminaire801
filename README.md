@@ -7,7 +7,7 @@ Most of my code lives in private company repos, so this page is a summary rather
 ## Now
 
 **Finks** (The Average Joe Media Inc.), Full Stack Web Developer, part-time, since 07/2024.
-I built and run the news pipeline behind the AI news briefs on finks.ai: about 8,600 RSS feeds, story clustering, and fact checks on every brief. I also built the portfolio, bank-connection and Google connector services for the AI chat agent. Python on AWS Lambda and SQS, ClickHouse, Qdrant. About 1,170 merged pull requests since March 2026.
+I built and run the news pipeline behind the AI news briefs on finks.ai: about 8,600 RSS feeds, story clustering, and fact checks on every brief. I also built the portfolio, bank-connection and Google connector services for the AI chat agent. Python on AWS Lambda and SQS, ClickHouse, Qdrant. About 1,170 merged pull requests since March 2026. That work happens on my work account, [github.com/lumifinks](https://github.com/lumifinks), in private company repos, so it shows activity rather than code.
 
 **THWS Schweinfurt**, B.Eng. Mechatronics, since 10/2024 (expected graduation 03/2029).
 
